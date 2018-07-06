@@ -1,0 +1,17 @@
+.button { 
+    background-color: #e40000!important;
+    color: white;
+}
+
+.color-red {
+    color: #e40000!important;
+}
+
+.input-otp {
+	border: none;
+    border-bottom: 2px solid red;
+}
+
+.param-key {
+	font-weight: bold;
+}
